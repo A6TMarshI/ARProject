@@ -240,7 +240,8 @@ MonoBehaviour:
   m_XROrigin: {fileID: 0}
   m_ExcludeUITouches: 1
   m_ARSessionOrigin: {fileID: 0}
-  m_SelectionVisualization: {fileID: 0}
+  m_SelectionVisualization: {fileID: 1453220218852410379, guid: 27665b0fb5a20ad49945af3d2c1eb43e,
+    type: 3}
 --- !u!114 &8286309521821677580
 MonoBehaviour:
   m_ObjectHideFlags: 0
