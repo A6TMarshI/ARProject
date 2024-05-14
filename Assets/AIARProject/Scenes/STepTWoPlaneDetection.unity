@@ -643,6 +643,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: AR Placement Interactable
       objectReference: {fileID: 0}
+    - target: {fileID: 8838416209344866559, guid: dbf91cc5f8bc32c42a93b6fbcf8f1155,
+        type: 3}
+      propertyPath: m_XROrigin
+      value: 
+      objectReference: {fileID: 8}
+    - target: {fileID: 8838416209344866559, guid: dbf91cc5f8bc32c42a93b6fbcf8f1155,
+        type: 3}
+      propertyPath: m_InteractionManager
+      value: 
+      objectReference: {fileID: 590737109}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
