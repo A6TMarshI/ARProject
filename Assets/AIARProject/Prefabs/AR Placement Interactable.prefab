@@ -44,7 +44,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dc3d7be0a1b704dc7a751d5e2d0edd53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_InteractionManager: {fileID: 0}
+  m_InteractionManager: {fileID: 4585893772522101284, guid: e76344f74cf7d19448e4130d03975f32,
+    type: 3}
   m_Colliders: []
   m_InteractionLayerMask:
     serializedVersion: 2
@@ -134,7 +135,8 @@ MonoBehaviour:
   m_OnDeactivate:
     m_PersistentCalls:
       m_Calls: []
-  m_XROrigin: {fileID: 0}
+  m_XROrigin: {fileID: 2290656134870832669, guid: b694592abe507cf4ebafc75ac4df24d9,
+    type: 3}
   m_ExcludeUITouches: 1
   m_ARSessionOrigin: {fileID: 0}
   m_PlacementPrefab: {fileID: 0}
