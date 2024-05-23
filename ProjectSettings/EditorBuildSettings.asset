@@ -11,9 +11,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/AIARProject/Scenes/STepTWoPlaneDetection.unity
     guid: efc5b1b12522f384da43b227c2fb2d33
-  - enabled: 1
+  - enabled: 0
     path: Assets/AIARProject/Scenes/Step Three.unity
     guid: d466d3142f08e894aa225cbcf81776b4
+  - enabled: 1
+    path: Assets/AIARProject/Scenes/Step Four.unity
+    guid: 4a00ecf6e31e6464d94f3e264cd19696
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af,
       type: 2}
